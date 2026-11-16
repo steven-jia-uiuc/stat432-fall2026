@@ -18,6 +18,12 @@
 !/homework/week-[0-9][0-9]/homework-[0-9][0-9].pdf
 !/homework/week-[0-9][0-9]/homework-[0-9][0-9].html
 
+# Homework 12 also requires the reusable skill and its invocation policy.
+!/homework/week-12/SKILL.md
+!/homework/week-12/agents/
+/homework/week-12/agents/*
+!/homework/week-12/agents/openai.yaml
+
 # Keep only final-project files.
 /project/*
 !/project/final-report.pdf
